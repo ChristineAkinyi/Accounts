@@ -1,15 +1,31 @@
-.form{
+#container{
+    border: none;
     display: grid;
-    border:solid 1px;
-    text-align: center;
+    margin: auto;
     grid-template-columns: 50% 50%;
-    margin-left: 0 auto;
+    padding-top: 100px;
 }
 
-#button{
-    padding: 6px 12px;
+.undraw{
     border: none;
-    color: rgb(255, 255, 255);
-    background-color: purple;
-    width: 80%;
+    margin: auto;
+    border-right: solid black 3px;
+}
+
+.form{
+    border: none;
+    padding-left: 100px;
+}
+
+button{
+    padding: 12px 22px;
+    width: 65%;
+    color: azure;
+    background-color: blueviolet;
+}
+
+.input{
+    padding: 12px 22px;
+    border-radius: 6px;
+    width: 60%;
 }

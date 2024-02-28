@@ -1,0 +1,52 @@
+#container{
+    border: none;
+    padding-top: 100px;
+    display: flex;
+}
+
+.undraw{
+    border: none;
+    margin: auto;
+    border-right: solid black 2px;
+    padding-right: 50px;
+}
+
+button{
+    width: 65%;
+    padding: 8px 20px;
+    color: azure;
+    background-color: purple;
+
+}
+
+h1{
+    color: purple;
+    text-align: center;
+}
+
+.input{
+    border-radius: 6px;
+    width: 60%;
+    padding: 12px 22px;
+    
+}
+
+.Name{
+    display: inline-block; width:36%;
+}
+
+label{
+    display: block; width: 80%;
+}
+
+.form{
+    border: none;
+    padding-left: 50px;
+}
+
+or{
+    color: purple;
+}
+
+
+
